@@ -2,3 +2,9 @@
 • Nome do(a) autor(a): Leonardo Rocha Campos
 • Data de criação: 23/06/2016
 • Hora de criação: 10:19
+
+-------------------------------------
+• Nome artefato: ataReuniaoSemestral.txt
+• Nome do(a) autor(a) da alteração: Nelson Alves de Paiva Neto
+• Data da alteração: 23/06/2016
+• Hora da alteração: 11:44
