@@ -5,7 +5,7 @@
 
 -----------------------------------------------
 
-Nome artefato: 1.01-Agendas e Atas de Reunião.txt
-• Nome do(a) autor(a): Leonardo Rocha Campos
-• Data de criação: 23/06/2016
-• Hora de criação: 11:47
+• Nome artefato: 1.01-Agendas e Atas de Reunião.txt
+• Nome do(a) autor(a) da alteração: Leonardo Rocha Campos
+• Data da alteração: 23/06/2016
+• Hora da alteração: 11:51
