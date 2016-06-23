@@ -1,11 +1,11 @@
-• Nome artefato: 1.03-Planejamento.txt
-• Nome do(a) autor(a): Nelson Alves de Paiva Neto
-• Data de criação: 16/06/1992
-• Hora de criação: 15:12
+â€¢ Nome artefato: 1.03-Planejamento.txt
+â€¢ Nome do(a) autor(a): Nelson Alves de Paiva Neto
+â€¢ Data de criaÃ§Ã£o: 16/06/1992
+â€¢ Hora de criaÃ§Ã£o: 15:12
 
 -----------------------------------------------
 
-• Nome artefato: 1.03-Planejamento.txt
-• Nome do(a) autor(a) da alteração: Nelson Alves de Paiva Neto
-• Data da alteração: 22/06/2016
-• Hora da alteração: 19:03
+â€¢ Nome artefato: 1.03-Planejamento.txt
+â€¢ Nome do(a) autor(a) da alteraÃ§Ã£o: Leonardo Rocha Campos
+â€¢ Data da alteraÃ§Ã£o: 23/06/2016
+â€¢ Hora da alteraÃ§Ã£o: 11:53
